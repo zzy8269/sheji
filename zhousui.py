@@ -11,7 +11,7 @@ if choose==1:
         if mon>y:
             i=yea-x
             print('周岁是%d' % (i))
-        elif b==y:
+        elif mon==y:
             if day>=z:
                 i=yea-x
                 print('周岁是%d' % (i))
